@@ -1,0 +1,19 @@
+*{
+    background-color: lightslategray;
+}
+.myform{
+
+    
+    margin-top: 90px;
+    padding-left: 70px;
+    align-items: center;
+    color: white;
+
+
+}
+
+#fname, #lname, #email, #address, #zipcode, #city, #city, #addinfo, #submit-btn{
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
